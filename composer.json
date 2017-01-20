@@ -1,6 +1,7 @@
 {
     "name": "shital/newlib",
     "description": "My first Composer project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Shital Adhegaonkar",
