@@ -1,0 +1,17 @@
+{
+    "name": "shital/newlib",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Shital Adhegaonkar",
+            "email": "s.adhegaonkar@easternenterprise.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
